@@ -165,6 +165,7 @@ public static void main(String[] args)
 	boolean loop=true;
 	while(loop)
 	{
+		System.out.println("Dinesh Flight");
 		System.out.println("1.booking \n2.cancel \n3.Print Avaiable Seats \n4.print \n5.Exit");
 		int choice = s.nextInt();
 		switch(choice)
