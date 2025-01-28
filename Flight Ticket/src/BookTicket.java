@@ -1,8 +1,4 @@
 import java.util.*;
-
-
-
-
 public class BookTicket {
 	
 	public static String correctSeat(Scanner s)
